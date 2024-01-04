@@ -25,3 +25,5 @@
 8. Chemistry
 
 [My Portfolio](https://simrans4258.github.io/)
+
+_Reviewed by Lian Edhah_
